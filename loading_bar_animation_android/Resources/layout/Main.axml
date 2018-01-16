@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_height="match_parent"
+        android:padding="15dp"
+        android:background="@android:color/background_light"
+        android:layout_width="match_parent">
+        <RelativeLayout
+            android:id="@+id/viewC1"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp"
+            android:background="#EDEEF1">
+            <View
+                android:id="@+id/view1"
+                android:layout_width="600dp"
+                android:layout_height="45dp"
+                android:background="@drawable/animation_gradient" />
+            <View
+                android:id="@+id/view1"
+                android:layout_width="600dp"
+                android:layout_height="45dp"
+                android:foreground="@drawable/white_shape" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/viewC2"
+            android:layout_toRightOf="@id/viewC1"
+            android:layout_marginTop="10dp"
+            android:layout_width="90dp"
+            android:layout_height="7dp"
+            android:background="#EDEEF1">
+            <View
+                android:id="@+id/view2"
+                android:layout_width="600dp"
+                android:layout_height="7dp"
+                android:background="@drawable/animation_gradient" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/viewC3"
+            android:layout_toRightOf="@id/viewC1"
+            android:layout_marginTop="30dp"
+            android:layout_width="60dp"
+            android:layout_height="7dp"
+            android:background="#EDEEF1">
+            <View
+                android:id="@+id/view3"
+                android:layout_width="600dp"
+                android:layout_height="7dp"
+                android:background="@drawable/animation_gradient" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/viewC4"
+            android:layout_width="270dp"
+            android:layout_height="7dp"
+            android:layout_below="@id/viewC1"
+            android:background="#EDEEF1">
+            <View
+                android:id="@+id/view4"
+                android:layout_width="600dp"
+                android:layout_height="7dp"
+                android:background="@drawable/animation_gradient" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/viewC5"
+            android:layout_width="300dp"
+            android:layout_height="7dp"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/viewC4"
+            android:background="#EDEEF1">
+            <View
+                android:id="@+id/view5"
+                android:layout_width="600dp"
+                android:layout_height="7dp"
+                android:background="@drawable/animation_gradient" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/viewC6"
+            android:layout_width="600dp"
+            android:layout_height="7dp"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/viewC5"
+            android:background="#EDEEF1">
+            <View
+                android:id="@+id/view6"
+                android:layout_width="600dp"
+                android:layout_height="7dp"
+                android:background="@drawable/animation_gradient" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

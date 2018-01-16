@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <color name="loading_animation_background">#EDEEF1</color>
+    <color name="loading_animation_gray">#E2E4E8</color>
+</resources>

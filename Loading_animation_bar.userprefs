@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4938FE06-CDA0-402A-9C7E-0EFD8D84B77E}|Default">
+  <MonoDevelop.Ide.ItemProperties.loading__bar__animation__android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.AVD_for_Nexus_5_by_Google" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/oscaradauto/Projects/Loading_animation_bar/loading_bar_animation_android/Resources/layout/Main.axml" relfile="loading_bar_animation_android/Resources/layout/Main.axml" line="6" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.loading__bar__animation__ios PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4C0408D4-4832-4FA4-8BDF-CD100BE687DA">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.loading__bar__animation__ios>
+  <MultiItemStartupConfigurations />
+</Properties>
